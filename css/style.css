@@ -27,3 +27,7 @@ body {
     height: 100%;
     max-width: 300px;
 }
+
+#nav-bar {
+    position: fixed;
+}
